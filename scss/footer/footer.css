@@ -1,0 +1,29 @@
+.ftext{
+	font-weight: bolder;
+	color:#fee01e;
+}
+
+.ftext2{
+	color:#fee01e;
+}
+
+.fdivisor{
+	background-color: #fee01e;
+	height: 2px;
+	border: none;
+}
+
+.fdivisor2{
+
+	background-color: #fee01e;
+	height: 1px;
+	border: none;
+}
+
+.footerCl{
+	background-color: #373935;
+}
+
+.ficon{
+	font-size: larger;
+}

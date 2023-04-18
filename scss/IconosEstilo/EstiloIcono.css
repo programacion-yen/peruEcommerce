@@ -1,0 +1,58 @@
+.FavoritosIcon{
+	color: red;
+}
+
+.bloquear{
+
+	pointer-events: none;
+}
+
+.CartIcon{
+	color:green;
+}
+
+.ocultar{
+	display:none;
+}
+
+.lin{
+	border:1px solid red;
+}
+
+.lin2{
+	border: 1px solid blue;
+}
+
+.lin3{
+	border: 1px solid green;
+}
+
+.Ocultar{
+	display: none;
+}
+
+
+.BotonCerrar{
+	background-color:#003399;
+	height: 60px;
+	border: 1px solid #003399;
+}
+
+.BotonCerrar:hover{
+
+	background-color: #0b50dc;
+}
+
+.modalSpinner{
+	Background-color: transparent;
+}
+
+
+.IconBox{
+	/* background-color: lightgreen; */
+	color: #003399;
+}
+
+.IconSize{
+	font-size: xx-large;
+}

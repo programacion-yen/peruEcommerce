@@ -1,0 +1,12 @@
+
+.EstiloBanner{
+	height: 100%;
+	border-radius: 15px;
+}
+
+.BannerContainer{
+
+	height: 130px;
+	width: 300px;
+	border-radius: 20px;
+}

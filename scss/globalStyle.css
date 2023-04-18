@@ -1,0 +1,21 @@
+.sliderComp{
+
+	color: #fee01e;
+	padding: 10px;
+}
+
+.colorGlobal{
+	background-color: #f2f2f2;
+}
+
+.colorbtn{
+	color:#fee01e;
+	/* color:white; */
+	background-color: #373935;
+}
+
+.colorbtn:hover{
+	color:#373935;
+	/* color:white; */
+	background-color: #fee01e;
+}
